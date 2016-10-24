@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DateTimeDialog</string>
+
+    <string name="dialog_datetime_title">"What do you want to edit?"</string>
+
+    <string name="time_set">Set time</string>
+    <string name="cancel">Cancel</string>
+    <string name="time">Time : </string>
+
+    <string name="main_no_date">No date</string>
+
+    <array name="dialog_array_exit">
+        <item>Date</item>
+        <item>Time</item>
+        <item>Exit</item>
+    </array>
+
+    <array name="dialog_array_date">
+        <item>Date</item>
+        <item>Time</item>
+    </array>
+</resources>
